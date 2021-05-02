@@ -1,0 +1,1 @@
+obj_game_controller.end_game();
